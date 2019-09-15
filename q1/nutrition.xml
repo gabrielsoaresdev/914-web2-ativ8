@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nutrition>
+<food>
+    <name>Macarrão de Arroz</name>
+    <kcal>290</kcal>
+    <carboidratos>64g</carboidratos>
+    <proteinas>6,3g</proteinas>
+</food>
+<food>
+    <name>Macarrão Instantâneo</name>
+    <kcal>375</kcal>
+    <carboidratos>51g</carboidratos>
+    <proteinas>8,4g</proteinas>
+</food>
+<food>
+    <name>Iogurte</name>
+    <kcal>57</kcal>
+    <carboidratos>7,8g</carboidratos>
+    <proteinas>5,8g</proteinas>
+</food>
+<food>
+    <name>Refrigerante de Cola</name>
+    <kcal>93</kcal>
+    <carboidratos>23g</carboidratos>
+    <proteinas>0g</proteinas>
+</food>
+</nutrition>
